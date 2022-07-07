@@ -1,5 +1,5 @@
 ![cRequire image](http://i-got.ratelimited.today/ACxiiRW.png)
-# cRequire - easy solution to using modules, sound playback and more!
+# cRequire - a simple module handler
 
 ## About
 cRequire (acronym for "custom require") - is a custom modular handler for Roblox scripts, whenever it's for a game, or for a script - purely made for fun.
